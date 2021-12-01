@@ -1,0 +1,16 @@
+C:\Users\Fatema\Desktop\C#proje\testtry\bin\Debug\net5.0\testtry.exe
+C:\Users\Fatema\Desktop\C#proje\testtry\bin\Debug\net5.0\testtry.deps.json
+C:\Users\Fatema\Desktop\C#proje\testtry\bin\Debug\net5.0\testtry.runtimeconfig.json
+C:\Users\Fatema\Desktop\C#proje\testtry\bin\Debug\net5.0\testtry.runtimeconfig.dev.json
+C:\Users\Fatema\Desktop\C#proje\testtry\bin\Debug\net5.0\testtry.dll
+C:\Users\Fatema\Desktop\C#proje\testtry\bin\Debug\net5.0\ref\testtry.dll
+C:\Users\Fatema\Desktop\C#proje\testtry\bin\Debug\net5.0\testtry.pdb
+C:\Users\Fatema\Desktop\C#proje\testtry\obj\Debug\net5.0\testtry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatema\Desktop\C#proje\testtry\obj\Debug\net5.0\testtry.AssemblyInfoInputs.cache
+C:\Users\Fatema\Desktop\C#proje\testtry\obj\Debug\net5.0\testtry.AssemblyInfo.cs
+C:\Users\Fatema\Desktop\C#proje\testtry\obj\Debug\net5.0\testtry.csproj.CoreCompileInputs.cache
+C:\Users\Fatema\Desktop\C#proje\testtry\obj\Debug\net5.0\testtry.dll
+C:\Users\Fatema\Desktop\C#proje\testtry\obj\Debug\net5.0\ref\testtry.dll
+C:\Users\Fatema\Desktop\C#proje\testtry\obj\Debug\net5.0\testtry.pdb
+C:\Users\Fatema\Desktop\C#proje\testtry\obj\Debug\net5.0\testtry.genruntimeconfig.cache
+C:\Users\Fatema\Desktop\C#proje\testtry\obj\Debug\net5.0\testtry.csproj.AssemblyReference.cache
